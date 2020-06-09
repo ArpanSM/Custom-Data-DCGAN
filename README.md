@@ -1,1 +1,1 @@
-# Custom-Data-DCGAN
+# Keras - GAN - Implementations
